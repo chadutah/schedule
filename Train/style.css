@@ -1,0 +1,46 @@
+body {
+    background-image: url("space.jpg");
+}
+
+.container {
+	height: auto;
+    width: 100%;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+
+.jumbotron {
+    opacity: 0.8;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+
+.panel {
+    opacity: 0.8;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+
+.panel > .panel-heading {
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+
+#addTrainBtn {
+    background-color: black;
+    color: white;
+    border: none;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+}
+#addTrainBtn:hover {
+    background-color: crimson;
+}
